@@ -18,10 +18,7 @@ Urvi.AI is an innovative healthcare solution tailored specifically for farmers, 
 2. **Create an Account:** Sign up or log in to access personalized agricultural health solutions.
 3. **Connect with Experts:** Easily make appointments with agricultural health experts through the Urvi.AI app.
 
-## Support
-- **Privacy Policy:** [Link to Privacy Policy]
-- **Terms of Service:** [Link to Terms of Service]
-- **Accessibility:** Our platform is designed to be accessible to all users.
+
 
 ## Credits
 - **Design and Development:** Designed and developed by Akshat.
